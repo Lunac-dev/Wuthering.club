@@ -1,0 +1,83 @@
+{
+  "ascensionTemplate": {
+    "levels": [
+      {
+        "rank": 1,
+        "boss": 0,
+        "field": 0,
+        "drop": {
+          "★2": 4
+        },
+        "coin": 5000
+      },
+      {
+        "rank": 2,
+        "boss": 4,
+        "field": 4,
+        "drop": {
+          "★3": 4
+        },
+        "coin": 10000
+      },
+      {
+        "rank": 3,
+        "boss": 8,
+        "field": 8,
+        "drop": {
+          "★3": 8
+        },
+        "coin": 15000
+      },
+      {
+        "rank": 4,
+        "boss": 12,
+        "field": 12,
+        "drop": {
+          "★4": 4
+        },
+        "coin": 20000
+      },
+      {
+        "rank": 5,
+        "boss": 10,
+        "field": 16,
+        "drop": {
+          "★4": 8
+        },
+        "coin": 40000
+      },
+      {
+        "rank": 6,
+        "boss": 12,
+        "field": 20,
+        "drop": {
+          "★5": 4
+        },
+        "coin": 80000
+      }
+    ],
+    "total": {
+      "boss": 46,
+      "field": 60,
+      "drop": [
+        {
+          "rarity": "★2",
+          "amount": 4
+        },
+        {
+          "rarity": "★3",
+          "amount": 12
+        },
+        {
+          "rarity": "★4",
+          "amount": 12
+        },
+        {
+          "rarity": "★5",
+          "amount": 4
+        }
+      ],
+      "coin": 170000
+    }
+  }
+}

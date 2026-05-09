@@ -1,0 +1,56 @@
+{
+  "name": "カルロッタ",
+  "ascension": {
+    "boss": "プラチナのマキナ",
+    "field": "ソードアコーラス",
+    "dropName": "書き直し・しびき種族ドロップ"
+  },
+  "skills": {
+    "weeklyName": "冥府へのグリンプス",
+    "coin": 2030000,
+    "drop": [
+      {
+        "rarity": "★2",
+        "amount": 25
+      },
+      {
+        "rarity": "★3",
+        "amount": 28
+      },
+      {
+        "rarity": "★4",
+        "amount": 28
+      },
+      {
+        "rarity": "★5",
+        "amount": 67
+      }
+    ],
+    "weekly": [
+      {
+        "rarity": "★2",
+        "amount": 25
+      },
+      {
+        "rarity": "★3",
+        "amount": 25
+      },
+      {
+        "rarity": "★4",
+        "amount": 25
+      },
+      {
+        "rarity": "★5",
+        "amount": 57
+      }
+    ]
+  },
+  "leveling": {
+    "totalEXP": 3004700,
+    "coin": 854000,
+    "optimalUsage": {
+      "上級共鳴強化剤": 304.75,
+      "特級共鳴強化剤": 121.9
+    }
+  }
+}
